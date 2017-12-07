@@ -1,6 +1,11 @@
 # react-native-weather-app
 
-<b>Weather app works with AsyncStorage</b>
+<b>Weather app works with :</b>
+ - AsyncStorage
+ - DrawerNavigator
+ - react-native-animatable
+ - react-native-fontawesome
+ - native-base
 
 <p align="center">
   <img src="https://lh6.googleusercontent.com/LPvs4usMYT32JnPgGu2N_FMnSM-BgHtCvhNCAo3_--LjVlAc92LfyRpBzW8WsPpLEx342h3wEUQplUhsOk8=w2880-h1652-rw" width="300"/>
