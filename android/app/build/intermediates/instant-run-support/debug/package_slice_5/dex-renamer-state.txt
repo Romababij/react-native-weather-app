@@ -1,0 +1,4 @@
+#Wed Dec 06 21:49:10 EET 2017
+base.0=/Users/roma/SimpleWeather/android/app/build/intermediates/transforms/dexMerger/debug/6
+path.0=classes.dex
+renamed.0=classes.dex
